@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I'm Mahmoud Abo Elnaga<br>🌿I'm a third-year Artificial Intelligence student at Kafr El Sheikh University.<br>🌿I study in the Robotics and Automation Department.<br>🌿I'm passionate about technology, automation, and robotics.<br>👀I’m proficient in several programming languages, including Python and C++.<br>📖You can contact me via email: mahmoudabelnaga11@gmail.com<br>🗒 Know about my experiences: http://www.linkedin.com/in/mahmoud-abo-einaga-653ab4342
+👋Hi, I'm Mahmoud Abo Elnaga<br>🌱I'm a third-year Artificial Intelligence student at Kafr El Sheikh University.<br>🌱I study in the Robotics and Automation Department.<br>🌱I'm passionate about technology, automation, and robotics.<br>👀I’m proficient in several programming languages, including Python and C++.<br>📖You can contact me via email: mahmoudabelnaga11@gmail.com<br>🗒 Know about my experiences: http://www.linkedin.com/in/mahmoud-abo-einaga-653ab4342
 
 
 ## 🌐 Socials:
